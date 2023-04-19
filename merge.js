@@ -3,7 +3,7 @@
 // My merging function:
 
 function mergeTwoArrays(A,B){
-    var result = []
+    let result = []
     let i = 0;
     let j = 0;
       while(result.length !== A.length + B.length){
