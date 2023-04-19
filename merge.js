@@ -2,7 +2,7 @@
 
 // My merging function:
 
-function merge(A,B){
+function mergeTwoArrays(A,B){
     var result = []
     let i = 0;
     let j = 0;
@@ -13,4 +13,4 @@ function merge(A,B){
     return result
 }
 
-merge([1,10,50,77],[2,14,99,100])
+mergeTwoArrays([1, 10, 50, 77], [2, 14, 99, 100]);
