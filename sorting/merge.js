@@ -1,6 +1,6 @@
 //**Noting in this code was copied */
-
-// My merging function:
+//This code was written before checking examples for similar functions and was my original attempt for solving this problem.
+// A function thats merges two arrays and sort them out:
 
 function mergeTwoArrays(A,B){
     let result = []

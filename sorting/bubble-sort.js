@@ -1,4 +1,5 @@
 //**Noting in this code was copied */
+//This code was written before checking examples for similar functions and was my original attempt for solving this problem.
 
 // I was suppose to write a bubble sorting function but this solution seemed more efficient at the time.
 
